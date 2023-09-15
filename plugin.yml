@@ -1,0 +1,9 @@
+name: ChatWithAround
+description: you can chat with around people you
+author: Mazyar8
+main: dev.mazyar8.chatwitharound.ChatWithAround
+version: 1.8
+commands:
+  cwa:
+  global:
+  shout:
